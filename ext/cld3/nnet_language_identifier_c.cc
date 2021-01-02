@@ -18,7 +18,7 @@ limitations under the License.
 #include <iostream>
 #include <string>
 #include <utility>
-#include "nnet_language_identifier.h"
+#include "./ext/src/nnet_language_identifier.h"
 
 #if defined _WIN32 || defined __CYGWIN__
   #define EXPORT __declspec(dllexport)
